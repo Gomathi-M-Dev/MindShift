@@ -82,7 +82,7 @@ Ravana.jpg           → Ravana
 Rashmirathi.jpg      → Rashmirathi
 PP.jpg               → Ponniyin Selvan
 Pothu Arivu.jpg      → Pothu Arivu Guide
-PataliPutra.jpg      → Pataliputra History
+pataliputra.jpg      → pataliputra History
 Other love.jpg       → The Other Love Story
 Oru Desathinte.jpg   → Oru Desathinte Katha
 Nirmala.jpg          → Nirmala

@@ -30,7 +30,7 @@ const books = [
     ["Rashmirathi", "₹390", "Rashmirathi.jpg", "Epic", "Hindi", "Ramdhari Singh Dinkar", true],
     ["Ponniyin Selvan", "₹750", "PP.jpg", "History", "Tamil", "Kalki", true],
     ["Pothu Arivu Guide", "₹260", "Pothu Arivu.jpg", "Study", "Tamil", "Sura Publications", false],
-    ["Pataliputra History", "₹310", "PataliPutra.jpg", "History", "Hindi", "Dr. Manoj Kumar", false],
+    ["pataliputra History", "₹310", "pataliputra.jpg", "History", "Hindi", "Dr. Manoj Kumar", false],
     ["The Other Love Story", "₹300", "Other love.jpg", "Love", "English", "Roopa Rao", false],
     ["Oru Desathinte Katha", "₹150", "Oru Desathinte.jpg", "Novel", "Malayalam", "S.K. Pottekkatt", true],
     ["Nirmala", "₹320", "Nirmala.jpg", "Family", "Hindi", "Munshi Premchand", true],
